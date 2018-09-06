@@ -7,7 +7,7 @@
 它们能让Markdown转换成更多的格式，例如LaTeX，Docbook。Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。  
     &emsp;&emsp;这些衍生版本要么基于工具，如Pandoc；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在一些语法和渲染效果上有改动。</br>  
 **我们要做什么**：</br>
-  &emsp;&emsp;*文本编辑器*  VS  *具有衍生功能的文本编辑器(扩展Markdown)*   
+  &emsp;&emsp;`文本编辑器`  VS  `具有衍生功能的文本编辑器(扩展Markdown)`   
   &emsp;&emsp;基于对Latex和HTML等标记性语言的理解和应用，制作简单的文本编辑器可行性较高。</br>
   &emsp;&emsp;*扩展功能基于工程进度安排。*</br>  
 **怎么做**：  
