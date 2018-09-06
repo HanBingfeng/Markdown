@@ -21,10 +21,6 @@
   <td>10%</td>
   </tr>
   <tr>
-  <td>了解熟悉Markdown语言的语法规则和功能</td>
-  <td>10%</td>
-  </tr>
-  <tr>
   <td>设计Markdown标记语言的实现方案</td>
   <td>10%</td>
   </tr>
