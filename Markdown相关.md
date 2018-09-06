@@ -23,8 +23,8 @@
     &emsp;&emsp;将Markdown文本编辑器中的语言转换为HTML语言，并在网页中生成目标文档。
     </br>&emsp;&emsp;其中，各个模块的CSS时可自行设计的。</br>   
 **参考Markdown编译器**：  
-  1.MarkdownPad2  
-  2.['马克飞象'](https://maxiang.io/)  
-  3.['简书'](https://www.jianshu.com/)    
+    &emsp;&emsp;1.MarkdownPad2  
+    &emsp;&emsp;2.['马克飞象'](https://maxiang.io/)  
+    &emsp;&emsp;3.['简书'](https://www.jianshu.com/)    
   </br>```注：其中简书不支持内嵌HTML，即不可以直接使用HTML文法。同时没种编译器在markdown语法上有细微的差异，比如标题"#"前后是否有空格。```
   
