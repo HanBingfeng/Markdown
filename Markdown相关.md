@@ -10,8 +10,14 @@
   &emsp;&emsp;`文本编辑器`  VS  `具有衍生功能的文本编辑器(扩展Markdown)`   
   &emsp;&emsp;基于对Latex和HTML等标记性语言的理解和应用，制作简单的文本编辑器可行性较高。</br>
   &emsp;&emsp;*扩展功能基于工程进度安排。*</br>  
-**怎么做**：  
-![](test.jpg)  
+**怎么做**：<table>
+    <th>工作安排</th><th>工作量占比分析</th>
+    <tr><td>了解熟悉Markdown语言的语法规则和功能</td><td>10%</td></tr>
+    <tr><td>设计Markdown标记语言的实现方案</td><td>10%</td></tr>
+    <tr><td>设计编译器用户UI</td><td>10%</td></tr>
+    <tr><td>完成编码</td><td>50%</td></tr>
+    <tr><td>测试完善</td><td>20%</td></tr>
+    </table>  
 **需要搞明白的问题**：  
   &emsp;&emsp;***1***.如何制作编译器的图形界面，即窗口、按钮等，以及最重要的 如何生成目标文档。  
   &emsp;&emsp;***2***.如何分配窗口，都有哪些功能。  
