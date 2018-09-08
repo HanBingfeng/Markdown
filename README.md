@@ -13,4 +13,5 @@
 4.参与商讨开发计划
 
 >2018.09.08
->>1.完成Markdown版本的[需求分析](https://github.com/HanBingfeng0221151602/Markdown/blob/master/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.md)说明
+>>1.完成Markdown版本的[需求分析](https://github.com/HanBingfeng0221151602/Markdown/blob/master/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.md)说明  
+2.更新"Markdown相关"工作文档  
