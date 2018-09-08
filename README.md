@@ -1,5 +1,6 @@
 # Markdown Project Report #
-```This repository works for software engineering course --- markdown project.```
+```This repository works for software engineering course --- markdown project.```  
+```个人具体工作量可查阅“Markdown相关”文档```
 >2018.09.05
 >>1.查阅Markdown相关资料  
 2.学习Markdown文法  
