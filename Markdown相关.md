@@ -46,4 +46,28 @@
 >>**完善编辑器界面**  
 
 >***2018.09.16***  
->>**Markdown文法分析**：  
+>>**Markdown文法分析**：<table>
+<th>类别</th><th>子类别</th><th>Markdown文法</th><th>HTML文法</th>
+    <tr><td rowspan="6">标题</td><td>一级标题</td><td># 标题 #</td><td>&#60;h1&#62;标题&#60;/h1&#62;</td></tr>
+    <tr><td>二级标题</td><td>## 标题 ##</td><td>&#60;h2&#62;标题&#60;/h2&#62;</td></tr>
+    <tr><td>三级标题</td><td>### 标题 ###</td><td>&#60;h3&#62;标题&#60;/h3&#62;</td></tr>
+    <tr><td>四级标题</td><td>#### 标题 ####</td><td>&#60;h4&#62;标题&#60;/h4&#62;</td></tr>
+    <tr><td>五级标题</td><td>##### 标题 #####</td><td>&#60;h5&#62;标题&#60;/h5&#62;</td></tr>
+    <tr><td>六级标题</td><td>###### 标题 ######</td><td>&#60;h6&#62;标题&#60;/h6&#62;</td></tr>
+    <tr><td rowspan="4">文本字体</td><td>斜体</td><td>*文本*</td><td>&#60;i&#62;文本&#60;/i&#62;</br>&#60;em&#62;文本&#60;/em&#62;</td></tr>
+    <tr><td>加粗</td><td>**文本**</td><td>&#60;b&#62;文本&#60;/b&#62;</br>&#60;strong&#62;文本&#60;/strong&#62;</td></tr>
+    <tr><td>斜体加粗</td><td>***文本***</td><td>综合使用以上<i>斜体</i>和<b>加粗</b>标签</td></tr>
+    <tr><td>删除线</td><td>~~文本~~</td><td>&#60;s&#62;文本&#60;/s&#62;</td></tr>
+    <tr><td colspan="2">引用</td><td>&#62;及多个&#62;</td><td>&#60;blockquote&#62;引用内容&#60;/blockquote&#62;</br>(可以嵌套)</td></tr>
+    <tr><td colspan="2">分割线</td><td>三个及三个以上 * 或 -</td><td>&#60;HR&#62;</br>(具体样式可用CSS自行设置)</td></tr>
+    <tr><td colspan="2">图片</td><td>![图片名字](图片链接)</td><td>&#60;img /&#62;(图片默认原始大小，没有位置样式)</td></tr>
+    <tr><td colspan="2">超链接</td><td>[链接名字](链接地址)</td><td>&#60;a href="链接地址"&#62;链接名字&#60;/a&#62;</td></tr>
+    <tr><td rowspan="2">列表</td><td>无序列表</td><td>- * +符号中任意一个`_`文本</br>(`_`表示一个空格)</td><td>&#60;ul&#62;</br>&#60;li&#62;&#60;/li&#62;</br>……</br>&#60;/ul&#62;</td></tr>
+    <tr><td>有序列表</td><td>1.</br>2.</br>……</td><td>&#60;ol&#62;</br>&#60;li&#62;&#60;/li&#62;</br>……</br>&#60;/ol&#62;</td></tr>
+    <tr><td colspan="2">表格</td><td>| header1 | header2 | header3 |</br>|:----|:----:|----:|</br>|content1|content2|content3|</td><td>&#60;table&#62;</br>&#60;th&#62;表头&#60;/th&#62;</br>&#60;tr&#62;&#60;td&#62;&#60;/td&#62;&#60;/tr&#62;</br>……</br>&#60;/table&#62;</td></tr>
+    <tr><td rowspan="2">代码块</td><td>单行代码</td><td>`文本`</td><td>&#60;code&#62;文本&#60;/code&#62;</td></tr>
+    <tr><td>多行代码</td><td>```</br>代码块内容</br>```</td><td><B>难题一</B></td></tr>
+    <tr><td colspan="2">HTML语言内嵌的识别</td><td>HTML语言的标签及内容</td><td>识别&#60;和&#62;的标签标志及标签内容</td></tr>
+    <tr><td colspan="2">数学公式</td><td colspan="2"><B>难题二</B></td></tr>
+    <tr><td colspan="2">流程图</td><td colspan="2"><B>难题三</B></td></tr>
+</table>
