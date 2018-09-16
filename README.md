@@ -19,3 +19,7 @@
 >2018.09.13
 >>1.完成[概要设计](https://github.com/HanBingfeng0221151602/Markdown/blob/master/%E3%80%90%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A302%E3%80%91%E6%A6%82%E8%A6%81%E8%AE%BE%E8%AE%A1.md)说明`(用户使用说明)`  
 2.更新"Markdown相关"工作文档
+
+>2018.09.16  
+>>1.完成markdown文法分析  
+2.更新"Markdown相关"工作文档
