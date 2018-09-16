@@ -1,6 +1,6 @@
 # Markdown Project Report #
 ```This repository works for software engineering course --- markdown project.```  
-**具体个人工作量可查阅[“Markdown相关”](https://github.com/HanBingfeng0221151602/Markdown/blob/master/Markdown%E7%9B%B8%E5%85%B3.md)文档**
+**具体个人工作量可查阅[“Markdown相关”](https://github.com/HanBingfeng0221151602/Markdown/blob/master/Markdown%E7%9B%B8%E5%85%B3.md#20180916)文档**
 >2018.09.05
 >>1.查阅Markdown相关资料  
 2.学习Markdown文法  
